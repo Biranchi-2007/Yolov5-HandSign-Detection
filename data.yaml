@@ -1,0 +1,5 @@
+train: C:/Users/dbira/yolov5/dataset/images/train
+val: C:/Users/dbira/yolov5/dataset/images/train 
+
+nc: 6
+names: [' ComeHere', ' FeelingGood', ' FeelingPain', ' NeedFood', ' NeedMedicine', ' NeedWater']
